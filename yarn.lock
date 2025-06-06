@@ -3446,8 +3446,8 @@ __metadata:
   linkType: hard
 
 "laravel-vite-plugin@npm:^1.2.0":
-  version: 1.2.0
-  resolution: "laravel-vite-plugin@npm:1.2.0"
+  version: 1.3.0
+  resolution: "laravel-vite-plugin@npm:1.3.0"
   dependencies:
     picocolors: "npm:^1.0.0"
     vite-plugin-full-reload: "npm:^1.1.0"
@@ -3455,7 +3455,7 @@ __metadata:
     vite: ^5.0.0 || ^6.0.0
   bin:
     clean-orphaned-assets: bin/clean.js
-  checksum: 10c0/d997ee27d45f88ede37cc24352cb95f6a8b321f9781d06d466a76e1c1463e677e3c547a5b0dd928451c68794868571db2cd397289df65e7e0d8c0d1fc09eb497
+  checksum: 10c0/550ea8c06085ec317a424ce36ee15eb2c29c2a60943f9d057f3231127335a559413110bd67fd3704fcdc0e3e2b051f221821d8b5d0f1f788bdc02896424c4e65
   languageName: node
   linkType: hard
 
